@@ -1,6 +1,3 @@
-Sure, here's a sample README file for your project. You can adjust the details as needed.
-
-```markdown
 # KeyLogger Monitoring Application
 
 ## Description
