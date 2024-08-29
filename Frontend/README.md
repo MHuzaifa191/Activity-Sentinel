@@ -22,7 +22,7 @@ This project is a full stack web application that monitors user activity on devi
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/keylogger-monitoring-app.git
+   git clone https://github.com/MHuzaifa191/keylogger-monitoring-app.git
    cd keylogger-monitoring-app
    ```
 
@@ -80,10 +80,6 @@ This project is a full stack web application that monitors user activity on devi
 
 - **`POST /logout`:** Logs out the user by clearing the session.
 
-## Screenshots
-
-![Home Page](./screenshots/home.png)
-![Gallery Page](./screenshots/gallery.png)
 
 ## Contributing
 
@@ -101,7 +97,3 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 ## Acknowledgments
 
 - Inspiration and resources for building this project were gathered from various online tutorials and documentation.
-
-```
-
-Make sure to replace placeholders like `yourusername` with your actual GitHub username or relevant information. Also, ensure the file paths for the screenshots are correct or remove the screenshot section if not needed. Save this content in a `README.md` file in the root directory of your project.
